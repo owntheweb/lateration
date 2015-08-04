@@ -4,7 +4,8 @@
   "description": "Calculating a position using distances from points.",
   "main": "lib/index.js",
   "dependencies": {
-    "invariant": "^2.1.0"
+    "invariant": "^2.1.0",
+    "babel-runtime": "^5.8.3"
   },
   "devDependencies": {
     "babel": "^5.8.3",
